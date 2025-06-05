@@ -1,0 +1,112 @@
+<styles>
+.contenedor {
+	width: 1000px; /*ancho de la pagina*/
+	margin: 0 auto; /*centra el contenedor*/
+	background-color: #555; /*color de fondo*/
+}
+.encabezado {
+	width: 100%; /*ancho del div*/
+	height: 200px; /*alto del div*/
+	background-color: #70b0f8; /*color de fondo*/
+}
+h1 {
+	font-size: 60px;
+	color: #001e99;
+	font-weight: bold;
+	margin-top: 60px;
+	text-shadow: #6e85e3 5px 5px;
+}
+.logo {
+	width: 25%;
+	text-align: center;
+	margin-top: 25px;
+	float: left;
+}
+.redondear {
+	border-radius: 30px;
+}
+.titular {
+	width: 75%;
+	text-align: center;
+	float: left;
+}
+.navegacion {
+	width: 100%;
+	height: 90px;
+	background-color: #92cdff;
+	text-align: center;
+}
+.navegacion a:link{
+	font-size: 30px;
+	text-decoration: none;
+	font-weight: bold;
+	letter-spacing: 2px;
+	color: #273a4a;
+}
+.navegacion a:hover{
+	font-size: 30px;
+	text-decoration: underline;
+	font-weight: bolder;
+	letter-spacing: 2px;
+	color: #02467f;
+}
+.navegacion a:visited{
+        font-size: 30px;
+	text-decoration: none;
+	font-weight: bold;
+	letter-spacing: 2px;
+	color: #02467f;
+}
+.fondotab{
+	background-color: #63aae5;
+	border-radius: 10px;
+	text-align: center;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+.barra {
+	width: 25%;
+	height: 600px;
+	background-color: #70aee1;
+	float: left;
+	text-align: center;
+}
+.barra1 {
+	text-align: center;
+	color: #FBF7FC;
+	font-size: large;
+}
+.principal {
+	width: 75%;
+	height: 600px;
+	background-color: #2f94e8;
+	float: left;
+	text-align: center;
+}
+h2{:
+        color: #f60;
+        font-size: 30px;
+        text-align: center;
+        text-decoration: underline;
+        font-weight: bolder;
+        letter-spacing: 2px;
+}      
+.textoprincipal {
+	color: #000000;
+}
+h3 {
+	margin-left: 150px;
+	margin-right: 150px;
+}
+h4 {
+
+}
+.pie {
+	width: 100%;
+	height: 100px;
+	background-color: #97aecd;
+	float: left;
+	text-align: center;
+}
+</styles>
